@@ -1,0 +1,2 @@
+model,best_threshold,roc_auc,recall_bad,false_negatives
+Logistic Regression,0.37587849914009297,0.8075,0.75,15
